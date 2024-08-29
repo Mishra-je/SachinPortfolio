@@ -101,7 +101,7 @@ const Contact = () => {
             Email
           </a>
           <a
-            href='https://drive.google.com/file/d/1jn2FUdaf5psj1SxYmdy_X0abWwKU_CDl/view?usp=drivesdk'
+            //href='https://drive.google.com/file/d/1jn2FUdaf5psj1SxYmdy_X0abWwKU_CDl/view?usp=drivesdk'
             target='_blank'
             rel='noopener noreferrer'
             className='text-gray-300 hover:text-white flex items-center'
